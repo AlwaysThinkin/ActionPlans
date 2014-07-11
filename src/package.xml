@@ -47,16 +47,16 @@
         <name>ApexPage</name>
     </types>
     <types>
-        <members>AccountTrigger</members>
-        <members>ActionPlanTaskTemplateTrigger</members>
-        <members>ActionPlanTaskTrigger</members>
-        <members>ActionPlanTrigger</members>
-        <members>CampaignTrigger</members>
-        <members>CaseTrigger</members>
-        <members>ContactTrigger</members>
-        <members>ContractTrigger</members>
-        <members>LeadTrigger</members>
-        <members>OpportunityTrigger</members>
+        <members>AP_AccountTrigger</members>
+        <members>AP_ActionPlanTaskTemplateTrigger</members>
+        <members>AP_ActionPlanTaskTrigger</members>
+        <members>AP_ActionPlanTrigger</members>
+        <members>AP_CampaignTrigger</members>
+        <members>AP_CaseTrigger</members>
+        <members>AP_ContactTrigger</members>
+        <members>AP_ContractTrigger</members>
+        <members>AP_LeadTrigger</members>
+        <members>AP_OpportunityTrigger</members>
         <name>ApexTrigger</name>
     </types>
     <types>
